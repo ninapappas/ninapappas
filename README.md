@@ -1,6 +1,6 @@
 # Hi, I'm Nina 👋
 
-🎓 Computer Science & Mathematics student | 🧠 Aspiring ML + Neuroscience Researcher  
+🎓 Computer Science & Mathematics student at Boston University | 🧠 Aspiring ML + Neuroscience Researcher  
 📍 Currently: Break Through Tech AI Fellow @ MIT | Cornell Machine Learning Certificate (2025)  
 
 ---
