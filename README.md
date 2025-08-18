@@ -1,13 +1,13 @@
 # Hi, I'm Nina 👋
 
-🎓 Computer Science & Mathematics student at Boston University | 🧠 Aspiring ML + Neuroscience Researcher  
+🎓 Computer Science & Economics student at Boston University | 🧠 Aspiring ML engineer
 📍 Currently: Break Through Tech AI Fellow @ MIT | Cornell Machine Learning Certificate (2025)  
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm interested in building thoughtful tech at the intersection of machine learning and neuroscience or education. With over 3 years of experience, I’ve worked on applied ML projects, interactive web tools, and led STEM education initiatives to make tech more accessible.
+I'm interested in building meaningful tech products at the intersection of machine learning and neuroscience or finance. With over 3 years of experience, I’ve worked on applied ML projects, interactive web tools, and led STEM education initiatives to make tech more accessible.
 
 - 🧠 Exploring: Applied ML for understanding brain function & mental health  
 - 🤖 Projects: Bias-detection in news, AI-based strategy games, API-powered web apps  
