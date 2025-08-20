@@ -1,24 +1,24 @@
 # Hi, I'm Nina 👋
 
 🎓 Computer Science & Economics student at Boston University | 🧠 Aspiring ML engineer
-📍 Currently: Break Through Tech AI Fellow @ MIT | Cornell Machine Learning Certificate (2025)  
+
+📍 Break Through Tech AI/ML Fellow @ MIT 
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm interested in building meaningful tech products at the intersection of machine learning and neuroscience or finance. With over 3 years of experience, I’ve worked on applied ML projects, interactive web tools, and led STEM education initiatives to make tech more accessible.
+I'm interested in building meaningful tech products at the intersection of machine learning and neuroscience/finance. With over 3 years of experience, I’ve worked on applied ML projects, interactive web tools, and led STEM education/recreational initiatives to make tech more accessible. In my free time, I love to explore the city, hike, and dance! 
 
-- 🧠 Exploring: Applied ML for understanding brain function & mental health  
-- 🤖 Projects: Bias-detection in news, AI-based strategy games, API-powered web apps  
-- 🧑‍🏫 Teaching: Python fundamentals through Girls Who Code  
+- 🧠 Exploring: Applied ML in research for understanding brain function & mental health   
+- 🤖 Projects: Bias-detection in news, AI-based strategy games, API-powered web apps    
 - 🌐 Outreach: Organized STEM events for 2,000+ students
 
 ---
 
 ## 🔧 Tech Stack
 
-**Languages:** Python (NumPy, Pandas, Scikit-learn), Java, JavaScript, HTML/CSS  
+**Languages:** Python (NumPy, Pandas, Scikit-learn, TensorFlow), Java, JavaScript, HTML/CSS  
 **Tools:** Git/Github, Jupyter Notebook, Visual Studio Code, Spyder, Eclipse 
 
 
