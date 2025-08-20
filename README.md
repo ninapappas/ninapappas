@@ -18,15 +18,17 @@ I'm interested in building meaningful tech products at the intersection of machi
 
 ## 🔧 Tech Stack
 
-**Languages:** Python (NumPy, Pandas, scikit-learn), Java, JavaScript, HTML/CSS  
-**Tools:** Git, Jupyter Notebook, Visual Studio Code, Spyder, Eclipse, Bootstrap  
+**Languages:** Python (NumPy, Pandas, Scikit-learn), Java, JavaScript, HTML/CSS  
+**Tools:** Git/Github, Jupyter Notebook, Visual Studio Code, Spyder, Eclipse 
+
 
 ---
 
 ## 📌 Current Projects
 
-- Applied ML to predict education with Breakthrough Tech Foundations  
-- Building a dataset for ML + OCD medicine interactions (in progress)  
+- Applied ML to predict education level from census data 
+- Developing a GNN to predict medicine interactions and their affect on OCD symptoms (in progress)
+- Dynamic web game built with HTML/CSS, Javascript, Node.js, integrating music and images from Pexels API 
 
 ---
 
@@ -37,4 +39,4 @@ I'm interested in building meaningful tech products at the intersection of machi
 
 ---
 
-⭐ I'm always open to collaboration, meaningful conversations, or food/matcha recommendations! 
+⭐I'm always open to collaboration, meaningful conversations, or food/matcha recommendations! 
