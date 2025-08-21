@@ -34,7 +34,7 @@ I'm interested in building meaningful tech products at the intersection of machi
 
 ## 📫 Let’s Connect
 
-- [LinkedIn](www.linkedin.com/in/nina-pappas)   
+- LinkedIn: [nina-pappas](www.linkedin.com/in/nina-pappas)   
 - Email: npappas@bu.edu 
 
 ---
