@@ -1,6 +1,6 @@
 # Hi, I'm Nina 👋
 
-🎓 Computer Science & Economics student at Boston University | 🧠 Aspiring ML engineer
+🎓 Computer Science & Economics student at Boston University | 🧠 Aspiring ML/Data engineer
 
 📍 Break Through Tech AI/ML Fellow @ MIT 
 
