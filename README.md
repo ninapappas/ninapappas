@@ -2,15 +2,18 @@
 
 🎓 Computer Science & Economics student at Boston University | 🧠 Aspiring ML/Data engineer
 
+📍 ML Research at Neural Signals Analysis Lab 
+📍 Data Science Intern at National Grid 
 📍 Break Through Tech AI/ML Fellow @ MIT 
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm interested in building meaningful tech products at the intersection of machine learning and neuroscience/finance. With over 3 years of experience, I’ve worked on applied ML projects, interactive web tools, and led STEM education/recreational initiatives to make tech more accessible. In my free time, I love to explore the city, hike, and dance! 
+I'm interested in exploring how machine learning can be used to build human centered products that improve the daily lives of others.
+With over 3 years of experience, I’ve worked on applied ML projects, interactive web tools, and led STEM education/recreational initiatives to make tech more accessible. In my free time, I love to explore the city, hike, and dance! 
 
-- 🧠 Exploring: Applied ML in research for understanding brain function & mental health   
+- 🧠 Exploring: Applied ML in research to improve Autism Diagnosis and building probabilistic models  
 - 🤖 Projects: Bias-detection in news, ML in the medical field, API-powered web apps    
 - 🌐 Outreach: Organized STEM events/taught for 200+ students 
 
@@ -18,7 +21,7 @@ I'm interested in building meaningful tech products at the intersection of machi
 
 ## 🔧 Tech Stack
 
-**Languages:** Python (NumPy, Pandas, Scikit-learn, TensorFlow, Beautiful Soup), Java, JavaScript, HTML/CSS  
+**Languages:** Python (NumPy, Pandas, Scikit-learn, TensorFlow, Beautiful Soup, PyTorch), Java, JavaScript, HTML/CSS  
 **Tools:** Git/Github, Jupyter Notebook, Visual Studio Code, Spyder, Eclipse 
 
 
